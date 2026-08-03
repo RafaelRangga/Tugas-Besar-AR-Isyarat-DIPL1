@@ -1,0 +1,2 @@
+D:\Rafael\Semester 6\DIPL\Tugas AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Rafael\Semester 6\DIPL\Tugas AR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

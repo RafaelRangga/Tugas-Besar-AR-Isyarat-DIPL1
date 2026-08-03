@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="O4" size="10.000000 15.613861" />
+    <ImageTarget name="O3" size="10.000000 15.613861" />
+    <ImageTarget name="HALO" size="10.000000 15.613861" />
+    <ImageTarget name="O2" size="10.000000 15.613861" />
+    <ImageTarget name="o" size="20.000000 31.227722" />
+    <ImageTarget name="Y" size="10.000000 15.613861" />
+    <ImageTarget name="U" size="10.000000 15.613861" />
+    <ImageTarget name="I" size="10.000000 15.613861" />
+    <ImageTarget name="Assa" size="10.000000 15.627477" />
+    <ImageTarget name="A4" size="10.000000 15.627477" />
+    <ImageTarget name="A3" size="10.000000 15.627477" />
+    <ImageTarget name="A2" size="10.000000 15.627477" />
+    <ImageTarget name="HURUFA" size="10.000000 15.627477" />
+    <ImageTarget name="GambarTumbal" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>

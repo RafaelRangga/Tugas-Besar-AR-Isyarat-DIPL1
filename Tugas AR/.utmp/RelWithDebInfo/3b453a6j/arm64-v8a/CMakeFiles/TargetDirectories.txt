@@ -1,0 +1,5 @@
+D:/Rafael/Semester 6/DIPL/Tugas AR/.utmp/RelWithDebInfo/3b453a6j/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Rafael/Semester 6/DIPL/Tugas AR/.utmp/RelWithDebInfo/3b453a6j/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Rafael/Semester 6/DIPL/Tugas AR/.utmp/RelWithDebInfo/3b453a6j/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Rafael/Semester 6/DIPL/Tugas AR/.utmp/RelWithDebInfo/3b453a6j/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Rafael/Semester 6/DIPL/Tugas AR/.utmp/RelWithDebInfo/3b453a6j/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
